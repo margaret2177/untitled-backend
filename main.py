@@ -16,7 +16,7 @@ s = Scraper()
 origins = [
     # "http://localhost.tiangolo.com",
     # "https://localhost.tiangolo.com",
-    "https://untitled-frontend-cp0f.onrender.com/",
+    "https://untitled-frontend-cp0f.onrender.com",
     "http://localhost:3000",
     "http://localhost:8080"
 
